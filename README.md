@@ -13,12 +13,12 @@ api.qwant.com/api/search/<type of search>
 #### Parameters
 ##### In URL
   - `<type of search>` - determines the type of search to perform, from :
-  - `web`
-  - `news`
-  - `images`
-  - `videos`
-  - `social`
-  - `shopping`
+    - `web`
+    - `news`
+    - `images`
+    - `videos`
+    - `social`
+    - `shopping`
 ##### Query Parameters
   - `uiv` - **Required**, must be `4` for the request to complete successfully (TODO : What does it mean?)
   - `q` - **Required**, the keyword(s) for the query.
