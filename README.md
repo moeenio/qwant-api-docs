@@ -6,7 +6,7 @@ As you can see, this is very much a work in progress, so I appreciate issues and
 1. [Endpoints](#endpoints)
 
 ## Endpoints
-### Searching results, except Maps, Music or Causes results
+### Searching results, except Maps or Music results
 ```
 api.qwant.com/api/search/<type of search>
 ```
