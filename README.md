@@ -23,7 +23,8 @@ api.qwant.com/api/search/<type of search>
 ##### Query Parameters
   - `uiv` - **Required**, must be `4` for the request to complete successfully (TODO : What does it mean?)
   - `q` - **Required**, the keyword(s) for the query.
-  - `count` - **Optional**, the number of items to get. Must be at most 10, what it defaults to.
+  - `t` - **Seems to be required**, the type of your search (same as above)
+  - `count` - **Optional**, the number of items to get. (?)Must be at most 10, what it defaults to. (TODO : Looks like this is not the case for images. Check this.)
   - `offset` - **Optional**, the offset from the first result
   - `safesearch`- **Optional**, level of content filtering (0, 1 or 2).
   - `locale` - **Optional**, the language for searching (like `fr_FR`)
