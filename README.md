@@ -1,3 +1,5 @@
+**ARCHIVED : Qwant's API has changed a lot since the time this documentation was last updated. Any client designed following the present document will not work properly. It is to be considered putdated and invalid**
+
 # Qwant API docs
 Welcome! Here you'll find unofficial docs for the Qwant REST API, which allows you to get web, image, news, music and more search results from the Qwant search engine.
 As you can see, this is very much a work in progress, so I appreciate issues and PRs :)
